@@ -1,0 +1,56 @@
+main{
+    min-height: 100vh;
+    background-color: #f7ecde;
+}
+
+.Bookmark{
+    position: relative;
+    border-width: 2px 0 2px 0;
+    border-style: dotted;
+    border-color: #352e28;
+}
+
+main h1{
+    font-size: 50px;
+    font-family: "Pacifico", cursive;
+    color: #352e28;
+
+}
+
+.Bookmark .class i{
+    color: #7EA951;
+    font-size: 25px;
+    font-weight: 900;
+    
+}
+
+
+.class span{
+    font-family: "Righteous", sans-serif;
+    color: #7EA951;
+    font-size: 25px;
+    font-weight: 500;
+
+}
+
+
+.site-name span{
+    font-size: 16px !important;
+    font-weight: 900;
+    font-family: "PT Sans Caption", sans-serif;
+}
+
+.site-url span{
+    font-size: 16px !important;
+    font-weight: 900;
+    font-family: "PT Sans Caption", sans-serif;
+}
+
+
+
+.Bookmark button{
+    background-color: #D1512D;
+    color: #fff;
+}
+
+
